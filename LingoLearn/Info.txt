@@ -5,3 +5,9 @@ Adding backend to project :
 - dotenv for .env support.
 - cors to allow your Vite frontend to call the backend during dev.
 
+
+Setting up API Key:
+Firstly, please read this guide from Vite to understand what we're about to do: [Env Variables and Modes](https://vite.dev/guide/env-and-mode). 
+- add api key to .env with VITE_ in front to make it accessible to the code
+- add .env to gitignore so that it isn't pushed to the github
+
