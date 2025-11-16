@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Just+Me+Again+Down+Here&family=Rock+Salt&display=swap');
+
+.just-me-again-down-here-regular {
+  font-family: "Just Me Again Down Here", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.inter-bold {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 675;
+  font-style: normal;
+}
+
+.container {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.title-card {
+  font-family: "Just Me Again Down Here", cursive;
+  font-weight: 500;
+  font-style: normal;
+  background-color: #FF8A11;
+  color: white;
+  border-radius: 12px;
+  padding: 12px 16px;
+  font-size: 10rem;
+  text-align: center;
+}
+
+.logo {
+    width: 12%;
+    height: auto;
+    padding-left: 7%;
+}
+
+.body-card {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  background-color: #FF8A11;
+  color: white;
+  border-radius: 5px;
+  padding: 12px 16px;
+  font-size: 0.9rem;
+  text-align: left;
+}
+
+.body-card-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  background-color: #FF8A11;
+  color: white;
+  border-radius: 5px;
+  padding: 12px 16px;
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+.start-button {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  background-color: #67C0AC;
+  color: white;
+  border-radius: 5px;
+  padding: 12px 16px;
+  font-size: 3rem;
+  text-align: center;
+  margin-top: -5rem;
+  margin-right: 3rem;
+}
