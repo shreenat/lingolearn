@@ -52,7 +52,7 @@ function App() {
         onEnd={navigateToHome} 
       />
     )}
-  </>
+    </>
   );
 
   // const [inputText, setInputText] = useState<string>("");
